@@ -1,1 +1,1 @@
-genA
+genB
